@@ -1,0 +1,6 @@
+﻿  TheGame.cpp
+c:\users\matthew\desktop\games programming 2 coursework\gp2 coursework\lab1\thegame.cpp(97): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\matthew\desktop\games programming 2 coursework\gp2 coursework\lab1\thegame.cpp(102): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\matthew\desktop\games programming 2 coursework\gp2 coursework\lab1\thegame.cpp(106): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\matthew\desktop\games programming 2 coursework\gp2 coursework\lab1\thegame.cpp(110): warning C4305: '-=': truncation from 'double' to 'float'
+  Lab1.vcxproj -> C:\Users\Matthew\Desktop\Games Programming 2 Coursework\GP2 Coursework\Debug\Lab1.exe
